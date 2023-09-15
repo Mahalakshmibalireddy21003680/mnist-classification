@@ -169,4 +169,3 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ## RESULT
 Therefore a model has been successfully created for digit classification using mnist dataset.
-](https://github.com/palamakuladeepika/mnist-classification.git)
